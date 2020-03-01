@@ -1,0 +1,169 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+.cabecalho h1{
+    text-align: center;
+    color:white;
+
+}
+
+.cabecalho{
+    width:100%;
+    height: 50px;
+    background-color: black;
+}
+
+.menu ul{
+    width: 100%;
+    height: 30px;
+    background-color: gray;
+    text-align: center;
+
+}
+
+.menu li{
+    display: inline;
+    padding: 10px;
+    font-family: Trebuchet MS, sans-serif;
+    position: relative;
+    top:5px;
+}
+
+.corpo{
+    width: 100%;
+    height: 550px;
+}
+.texto{
+    width: 550px;
+    height: 300px;
+    float: right;
+    position: relative;
+    right: 170px;
+    top: 60px;
+}
+.texto p{
+    font-family: Trebuchet MS, sans-serif;
+}
+
+.cafe{
+    width: 100%;
+    height: 550px;
+}
+.cafe img{
+    position: relative;
+    top: 50px;
+    left: 195px ;
+}
+.texto-post{
+    width: 530px;
+    height: 110px;
+    border-bottom: solid 1px;
+    float: right;
+    position: relative;
+    right: 400px;
+    top: 60px;
+}
+.cafe h3,p{
+    font-family: Trebuchet MS, sans-serif;
+    position: relative;
+    top: 20px;
+}
+.fotos{
+    width: 100%;
+    height: 550px;
+}
+.foto1{
+    width: 250px;
+    height: 250px;
+    float: right;   
+    position: relative;
+    right: 460px;
+}
+
+.foto1 h4 {
+    text-align: center;
+    font-size: 25px;
+}
+.foto2{
+    width: 250px;
+    height: 250px;
+    float: right;
+    position: relative;
+    left: 20px;
+}
+.foto2 h4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.foto3{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    left: 285px;
+}
+.foto3 h4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.social
+{
+    width: 100%;
+    height: 550px;
+}
+.social img{
+    position: relative;
+    top: 50px;
+    left: 180px ;
+}
+.texto-post{
+    width: 530px;
+    height: 110px;
+    border-bottom: solid 1px;
+    float: right;
+    position: relative;
+    right: 400px;
+    top: 70px;
+}
+.social h3,p{
+    font-family: Trebuchet MS, sans-serif;
+    position: relative;
+    top: 25px;
+}
+
+.formulario {
+    width: 500px;
+    height:300px ;
+    position: relative;
+    top: 100px;
+    left:350px;
+    
+}
+.form {
+    width: 500px;
+    height: 25px;
+    border: solid 1px;
+}
+
+.textarea {
+    width:500px;
+    height: 150px;
+    border: solid 1px;
+}
+
+.enviar{
+    border: solid 1px;
+    position: relative;
+    top: 10px;
+
+}
+.cancelar{
+    border: solid 1px;
+    position: relative;
+    top: 10px;
+
+}
